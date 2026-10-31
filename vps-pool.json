@@ -1,0 +1,12 @@
+[
+  {
+    "id": "vps-01",
+    "ip": "203.161.47.89",
+    "user": "root",
+    "password": "1212Server..",
+    "port": 22022,
+    "status": "available",
+    "assignedTo": null,
+    "expiresAt": null
+  }
+]
